@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prernaxa/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/prernaxa/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
