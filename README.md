@@ -23,8 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
+| [1297-maximum-number-of-balloons](https://github.com/prernaxa/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
+| [1297-maximum-number-of-balloons](https://github.com/prernaxa/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/prernaxa/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
