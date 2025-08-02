@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/prernaxa/LeetCode/tree/master/0056-merge-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/prernaxa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/prernaxa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/prernaxa/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/prernaxa/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
