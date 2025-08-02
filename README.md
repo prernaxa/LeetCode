@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/prernaxa/LeetCode/tree/master/0056-merge-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/prernaxa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/prernaxa/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/prernaxa/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
