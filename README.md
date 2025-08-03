@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prernaxa/LeetCode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/prernaxa/LeetCode/tree/master/0056-merge-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/prernaxa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prernaxa/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prernaxa/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/prernaxa/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/prernaxa/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/prernaxa/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/prernaxa/LeetCode/tree/master/0577-employee-bonus) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/prernaxa/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
