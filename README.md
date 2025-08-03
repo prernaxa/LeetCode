@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prernaxa/LeetCode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/prernaxa/LeetCode/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/prernaxa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0643-maximum-average-subarray-i](https://github.com/prernaxa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prernaxa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/prernaxa/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prernaxa/LeetCode/tree/master/0011-container-with-most-water) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prernaxa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
