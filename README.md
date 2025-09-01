@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prernaxa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/prernaxa/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0889-buddy-strings](https://github.com/prernaxa/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/prernaxa/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/prernaxa/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/prernaxa/LeetCode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/prernaxa/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0889-buddy-strings](https://github.com/prernaxa/LeetCode/tree/master/0889-buddy-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/prernaxa/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prernaxa/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
