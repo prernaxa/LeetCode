@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/prernaxa/LeetCode/tree/master/0179-largest-number) |
 | [0643-maximum-average-subarray-i](https://github.com/prernaxa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prernaxa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/prernaxa/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/prernaxa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sliding Window
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/prernaxa/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/prernaxa/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/prernaxa/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prernaxa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/prernaxa/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/prernaxa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prernaxa/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/prernaxa/LeetCode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/prernaxa/LeetCode/tree/master/0179-largest-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prernaxa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/prernaxa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prernaxa/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Database
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/prernaxa/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prernaxa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
