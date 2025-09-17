@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prernaxa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/prernaxa/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/prernaxa/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/prernaxa/LeetCode/tree/master/0889-buddy-strings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/prernaxa/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/prernaxa/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prernaxa/LeetCode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/prernaxa/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/prernaxa/LeetCode/tree/master/0889-buddy-strings) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/prernaxa/LeetCode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/prernaxa/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/prernaxa/LeetCode/tree/master/0242-valid-anagram) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/prernaxa/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prernaxa/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/prernaxa/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
