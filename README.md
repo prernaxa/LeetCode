@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/prernaxa/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/prernaxa/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/prernaxa/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/prernaxa/LeetCode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/prernaxa/LeetCode/tree/master/0577-employee-bonus) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prernaxa/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1625-group-sold-products-by-the-date](https://github.com/prernaxa/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
