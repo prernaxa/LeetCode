@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prernaxa/LeetCode/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/prernaxa/LeetCode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/prernaxa/LeetCode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/prernaxa/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/prernaxa/LeetCode/tree/master/0179-largest-number) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/prernaxa/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/prernaxa/LeetCode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/prernaxa/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
