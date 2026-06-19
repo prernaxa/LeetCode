@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prernaxa/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/prernaxa/LeetCode/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/prernaxa/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting Sort
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/prernaxa/LeetCode/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/prernaxa/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/prernaxa/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
